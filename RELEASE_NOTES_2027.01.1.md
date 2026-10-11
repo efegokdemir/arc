@@ -726,7 +726,7 @@ cold storage, restore leaves that object untouched and reports
 `cold_rows_skipped_unverifiable` instead of replacing the only cold copy with
 bytes it cannot verify.
 
-Contributed by [@efegokdemir](https://github.com/efegokdemir) in [#PR](https://github.com/Basekick-Labs/arc/pull/PR).
+Contributed by [@efegokdemir](https://github.com/efegokdemir) in [#1205](https://github.com/Basekick-Labs/arc/pull/1205).
 
 ### Delete API removes the inactive SQL Server prefix scan ([#1077](https://github.com/Basekick-Labs/arc/issues/1077))
 
